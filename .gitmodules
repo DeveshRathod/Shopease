@@ -1,0 +1,12 @@
+[submodule "Shopease-backend"]
+	path = Shopease-backend
+	url = https://github.com/DeveshRathod/Shopease-backend.git
+[submodule "Shopease-frontend"]
+	path = Shopease-frontend
+	url = https://github.com/DeveshRathod/Shopease-frontend.git
+[submodule "Shopease-frontend-deployment"]
+	path = Shopease-frontend-deployment
+	url = https://github.com/DeveshRathod/Shopease-frontend-deployment.git
+[submodule "Shopease-backend-deployment"]
+	path = Shopease-backend-deployment
+	url = https://github.com/DeveshRathod/Shopease-backend-deployment.git
