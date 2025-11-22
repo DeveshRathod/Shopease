@@ -1,4 +1,4 @@
-# 🛍️ ShopEase – Hybrid CI/CD Cloud-Native E-Commerce App
+# 🛍️ ShopEase – End‐to‐End CI/CD with ArgoCD & Jenkins 
 
 ## 📘 Overview
 
@@ -8,6 +8,10 @@ It provides a seamless end-to-end shopping experience for users and a dedicated 
 The project demonstrates a **hybrid CI/CD pipeline** leveraging **Jenkins**, **ArgoCD**, and **Kustomize** — fully deployed on **AWS EKS**, integrating **DevSecOps**, and **observability** via **Prometheus + Grafana**.
 
 ---
+
+## Demo
+![Demo GIF](https://drive.google.com/uc?export=view&id=1KlZOHzjdOIiuyShQnv3BEbnUR-PFJE0U)
+
 
 ## 🧱 Architecture Summary
 
